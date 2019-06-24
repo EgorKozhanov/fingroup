@@ -1,0 +1,51 @@
+.timeline-block__wrapper
+  display: flex
+  flex-flow: row-reverse nowrap
+  position: relative
+
+  &:first-child
+    .timeline-block__line
+      &::before
+        display: block
+        content: ''
+        position: absolute
+        width: 10px
+        height: 10px
+        border-radius: 50%
+        background: #ffffff
+        border: 2px solid rgb(51,31,238)
+        left: -6px
+
+  &:last-child
+    .timeline-card
+      margin-bottom: 0
+
+    .timeline-block__line
+      &::before
+        display: block
+        content: ''
+        position: absolute
+        width: 10px
+        height: 10px
+        border-left: 2px solid rgb(51,31,238)
+        border-bottom: 2px solid rgb(51,31,238)
+        bottom: -11px
+        left: -5px
+        transform: rotate(135deg)
+
+
+.timeline-block__line
+  width: 2px
+  height: 100%
+  display: block
+  background: rgb(51,31,238)
+  position: absolute
+  left: 20px
+
+.timeline-card
+  margin: 0 0 48px 24px
+
+.timeline__count
+  display: block
+  font-weight: 600
+  margin: 18px 0 0 0

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAAyB;EACvB,MAAM,EAAE,UAAU;;AAEpB,mBAAmB;EACjB,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,KAAK",
+"sources": ["profit-section.component.sass"],
+"names": [],
+"file": "profit-section.component.css"
+}

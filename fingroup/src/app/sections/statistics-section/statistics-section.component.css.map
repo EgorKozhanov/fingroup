@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAA0B;EACxB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,qBAAqB;;AAElC,0BAA0B;EACxB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,UAAU;EACrB,eAAe,EAAE,aAAa",
+"sources": ["statistics-section.component.sass"],
+"names": [],
+"file": "statistics-section.component.css"
+}

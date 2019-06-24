@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="046cf71e-7ebb-4927-a968-a97505529363" name="Default Changelist" comment="started angular project and added some html">
+      <change afterPath="$PROJECT_DIR$/.idea/fingroup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/.sass-cache/2ccc1ca98b3ea6e707dcd8c5a5437f48135dda88/styles.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/.sass-cache/df7c8dc37c93536650bb22505992afe94f572982/app.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/app.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/header/.sass-cache/4e805a6b751f13f1fbc267b8796d0fd457ef49c8/header.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/.sass-cache/d450b83fd82752cc2544a2b61ce9bbeec823615f/profit-section.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/.sass-cache/6af8da951acb4a25a46c638b38cdef44c14804f1/reviews-section.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/.sass-cache/d1717505f0d4efe1e7ad10885a59f1911c2a8afc/statistics-section.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/team-section/.sass-cache/59cd06b64889565a14636ff1bef88aeb914b7e01/team-section.component.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/assets/images/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/assets/images/avatar_test.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/assets/images/test_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fingroup/src/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingroup/src/styles.sass" beforeDir="false" afterPath="$PROJECT_DIR$/fingroup/src/styles.sass" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fingroup/src/styles.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="186" selection-start-line="24" selection-start-column="186" selection-end-line="24" selection-end-column="186" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fingroup/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/work-description-section/work-description-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/app.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/index.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/clients-type-section/clients-type-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/faq-section/faq-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/styles.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.sass" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/calc-section/calc-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/clients-type-section/clients-type-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/contacts-section/contacts-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/faq-section/faq-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/footer/footer.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/header/header.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/map-section/map-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/work-description-section/work-description-section.module.ts" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.html" />
+        <option value="$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/fingroup.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1853" />
+    <option name="height" value="1076" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+              <item name="cases-section" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+              <item name="clients-type-section" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fingroup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="fingroup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles.sass" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/fingroup/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="046cf71e-7ebb-4927-a968-a97505529363" name="Default Changelist" comment="" />
+      <created>1561143345370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561143345370</updated>
+      <workItem from="1561143346618" duration="29108000" />
+    </task>
+    <task id="LOCAL-00001" summary="started angular project and added some html">
+      <created>1561144895512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561144895512</updated>
+    </task>
+    <task id="LOCAL-00002" summary="One more sass and html">
+      <created>1561296502839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561296502839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29108000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="1" weight="0.3299285" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49973643" visible="true" weight="0.3299285" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002636" side_tool="true" weight="0.3299285" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3299285" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3299285" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started angular project and added some html" />
+    <MESSAGE value="One more sass and html" />
+    <option name="LAST_COMMIT_MESSAGE" value="One more sass and html" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/work-description-section/work-description-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/app.component.sass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="124" selection-start-line="5" selection-start-column="124" selection-end-line="5" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="104" selection-start-line="5" selection-start-column="104" selection-end-line="5" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="302" selection-start-line="12" selection-start-column="302" selection-end-line="12" selection-end-column="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="15" column="135" selection-start-line="15" selection-start-column="135" selection-end-line="15" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/faq-section/faq-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" column="225" selection-start-line="38" selection-start-column="225" selection-end-line="38" selection-end-column="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/calc-section/calc-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="31" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/clients-type-section/clients-type-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/contacts-section/contacts-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="34" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/faq-section/faq-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="29" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/header/header.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/footer/footer.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/header/header.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/map-section/map-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="4" lean-forward="true" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/profit-section/profit-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="true" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/reviews-section/reviews-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="33" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/statistics-section/statistics-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/team-section/team-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="30" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/work-description-section/work-description-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/timeline-section/timeline-section.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="3" lean-forward="true" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/styles.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/clients-type-section/clients-type-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="186" selection-start-line="24" selection-start-column="186" selection-end-line="24" selection-end-column="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fingroup/src/app/sections/cases-section/cases-section.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
